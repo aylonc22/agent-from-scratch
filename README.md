@@ -8,7 +8,7 @@ I'm using this repo to write, experiment, and explore independently instead of d
 
 The workshop teaches how to build an intelligent AI agent using TypeScript and OpenAI's API, focusing on prompt chaining, memory, and reasoning systems.
 
-> 🔗 **Official course**: [Watch on Frontend Masters](https://frontendmasters.com/workshops/agent-from-scratch/)
+> 🔗 **Official course**: [Watch on Frontend Masters](https://frontendmasters.com/courses/ai-agents/)
 
 ## 🚀 Setup Instructions
 
